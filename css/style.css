@@ -37,10 +37,20 @@
 }
 .help{
   font-family: 'Rokkitt', serif;
-
 }
 .help,.can,.sap{
+  font-family: 'Rokkitt', serif;
   padding-top: 20px;
+}
+.psap{
+  font-family: serif;
+  font-size: 15px;
+  font-style: oblique;
+}
+.psap1,.pstat{
+  font-size: 15px;
+  font-family: serif;
+  font-style: oblique;
 }
 .hero{
   text-align: center;
@@ -57,26 +67,9 @@
   margin-left: 10px;
   padding-top: 20px;
 }
-#footer{
-  background-color: #808080;
-  margin-top: 500px;
-  margin-left: -330px;
-  margin-right: -330px
-}
-#footer1{
-  background-color: #808080;
-  margin-top: 100px;
-  margin-left: -330px;
-  margin-right: -330px
-}
 .pic1{
   margin-top: 10px;
   margin-right: -70px;
-}
-.hfooter{
-  margin-left: 10px;
-  padding-right: 10px;
-  padding-top: 30px;
 }
 .spacepad{
   font-style: oblique;
@@ -91,17 +84,16 @@
   height: 80px;
 }
 .istat{
+  width: 290px;
+  height: 160px;
   padding-top: 120px;
+  padding-right: 40px;
+  padding-bottom: -10px;
 }
-
-h1{
-  font-family:sans-serif;
-}
-
 .para{
   font-family: serif;
 }
-img{
+.istarter{
   width: 290px;
   height: 160px;
   padding-right: 40px;
@@ -116,27 +108,30 @@ img{
   height: 38px;
   padding-right: 0px;
 }
-p{
-  font-family: serif;
-  font-size: 16px;
-  font-style: oblique;
-}
-.psap1{
-  font-size: 13px;
-  font-family: sans-serif;
-}
+
 pic2{
   width:240px
 }
-
-
+#footer{
+  background-color: #808080;
+  margin-top: 500px;
+  margin-left: -330px;
+  margin-right: -330px
+}
+#footer1{
+  background-color: #808080;
+  margin-top: 100px;
+  margin-left: -330px;
+  margin-right: -330px
+}
+.hfooter{
+  margin-left: 10px;
+  padding-right: 10px;
+  padding-top: 30px;
+}
 
 .portfolio{
   width: 300px;
-  height: 300px;
-}
-.portfolio1{
-  width: 700px;
   height: 300px;
 }
 .pic11{
